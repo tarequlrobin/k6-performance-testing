@@ -1,0 +1,25 @@
+{
+  "name": "k6-scripts",
+  "version": "1.0.0",
+  "description": "k6 performance testing scripts",
+  "keywords": [
+    "k6",
+    "performance",
+    "testing"
+  ],
+  "homepage": "https://github.com/tarequlrobin/k6-performance-testing#readme",
+  "bugs": {
+    "url": "https://github.com/tarequlrobin/k6-performance-testing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarequlrobin/k6-performance-testing.git"
+  },
+  "license": "ISC",
+  "author": "tarequl hasan robin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
